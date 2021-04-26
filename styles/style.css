@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    text-decoration: none;
 
 }
 
@@ -97,3 +98,4 @@ footer {
     font-size: 25px;
     color: #373737
 }
+
